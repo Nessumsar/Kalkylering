@@ -1,16 +1,11 @@
 package se.lexicon.LukasRasmussen;
 
-import static org.junit.Assert.assertTrue;
-
 import org.junit.Assert;
 import org.junit.Test;
 
 
 public class AppTest 
 {
-// Arrange - skapa testet
-    // Act - utföra testet - anropa metoden
-    // Assert - JUnit testar om resultatet av metodanropet
 
     @Test
     public void testEttPlusTva(){
